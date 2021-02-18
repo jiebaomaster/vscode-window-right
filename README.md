@@ -19,18 +19,24 @@ linux的函数调用层级很深，如果能按调用层级依次向右侧分屏
 ## 学习资料
 
 [官方文档](https://code.visualstudio.com/api/get-started/your-first-extension)
+
 [官方实例](https://github.com/microsoft/vscode-extension-samples)
 
 ## 会议纪要
 ### 2021-2-18
 
 [jiebaomaster](https://github.com/jiebaomaster)
-    1. 确定打开下一级窗口的显示位置的方法
+
+1. 确定打开下一级窗口的显示位置的方法
+
 [lemon-0615](https://github.com/lemon-0615)
-    2. 触发分屏的api
-    3. 屏幕显示区域定位api
-    4. 在1-2_1-3操作之后，打开2_2
+
+1. 触发分屏的api
+2. 屏幕显示区域定位api
+3. 在1-2_1-3操作之后，打开2_2
+
 [UltraviolenceCYX](https://github.com/UltraviolenceCYX)
-    1. 侧边栏api
-    2. 侧边栏的数据显示
-    3. todo 重新打开vscode之后保留上次的窗口状态
+
+1. 侧边栏api
+2. 侧边栏的数据显示
+3. todo 重新打开vscode之后保留上次的窗口状态
